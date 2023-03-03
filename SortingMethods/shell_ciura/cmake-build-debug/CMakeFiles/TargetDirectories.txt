@@ -1,0 +1,3 @@
+C:/Users/vladi/CLionProjects/shell_ciura/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vladi/CLionProjects/shell_ciura/cmake-build-debug/CMakeFiles/shell_ciura.dir
+C:/Users/vladi/CLionProjects/shell_ciura/cmake-build-debug/CMakeFiles/rebuild_cache.dir
