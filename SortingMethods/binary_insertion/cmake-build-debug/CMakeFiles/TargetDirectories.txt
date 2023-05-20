@@ -1,3 +1,0 @@
-C:/Users/vladi/CLionProjects/binary_insertion/cmake-build-debug/CMakeFiles/binary_insertion.dir
-C:/Users/vladi/CLionProjects/binary_insertion/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/vladi/CLionProjects/binary_insertion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

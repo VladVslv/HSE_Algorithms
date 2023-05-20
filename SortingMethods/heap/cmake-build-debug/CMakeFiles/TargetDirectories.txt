@@ -1,3 +1,0 @@
-C:/Users/vladi/CLionProjects/heap/cmake-build-debug/CMakeFiles/heap.dir
-C:/Users/vladi/CLionProjects/heap/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/vladi/CLionProjects/heap/cmake-build-debug/CMakeFiles/rebuild_cache.dir
